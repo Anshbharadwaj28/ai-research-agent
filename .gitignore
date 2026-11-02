@@ -24,3 +24,5 @@ htmlcov/
 # Generated research data
 outputs/
 *.log
+
+test_search.py
